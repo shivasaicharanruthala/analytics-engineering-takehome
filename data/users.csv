@@ -1,4 +1,4 @@
-﻿"_id__$oid","active","createdDate__$date","lastLogin__$date","role","signUpSource","state"
+﻿"_id_oid","active","createdDate","lastLoginDate","role","signUpSource","state"
 "5ff1e194b6a9d73a3a9f1052","True","1609687444800","1609687537858","consumer","Email","WI"
 "5ff1e194b6a9d73a3a9f1052","True","1609687444800","1609687537858","consumer","Email","WI"
 "5ff1e194b6a9d73a3a9f1052","True","1609687444800","1609687537858","consumer","Email","WI"

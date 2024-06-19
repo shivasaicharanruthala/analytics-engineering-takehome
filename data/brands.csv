@@ -1,4 +1,4 @@
-﻿"_id__$oid","barcode","brandCode","category","categoryCode","cpg__$id__$oid","cpg__$ref","name","topBrand"
+﻿"_id","barcode","brandCode","category","categoryCode","cpg_id_oid","cpg_ref","name","topBrand"
 "601ac115be37ce2ead437551","511111019862","","Baking","BAKING","601ac114be37ce2ead437550","Cogs","test brand @1612366101024","False"
 "601c5460be37ce2ead43755f","511111519928","STARBUCKS","Beverages","BEVERAGES","5332f5fbe4b03c9a25efd0ba","Cogs","Starbucks","False"
 "601ac142be37ce2ead43755d","511111819905","TEST BRANDCODE @1612366146176","Baking","BAKING","601ac142be37ce2ead437559","Cogs","test brand @1612366146176","False"
